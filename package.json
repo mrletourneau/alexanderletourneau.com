@@ -1,0 +1,26 @@
+{
+  "name": "alexanderletourneau",
+  "version": "1.0.0",
+  "description": "personal website",
+  "private": true,
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrletourneau/alexanderletourneau.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrletourneau/alexanderletourneau.com/issues"
+  },
+  "homepage": "https://github.com/mrletourneau/alexanderletourneau.com#readme"
+}
